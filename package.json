@@ -1,6 +1,6 @@
 {
   "name": "return-provided-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns provided number",
   "main": "main.js",
   "scripts": {
